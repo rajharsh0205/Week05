@@ -1,0 +1,11 @@
+ID,Name,Email,Phone,Salary
+1,John Doe,johndoe@example.com,9876543210,75000
+2,Jane Smith,janesmith@domain,8765432109,82000
+3,Bob Johnson,bobjohnson@example.com,abcdef1234,69000
+4,Alice Brown,alice.brown@website.com,7654321098,91000
+5,Charlie Green,charlie.green@website,6543210987,72000
+6,David White,david.white@example.com,5432109876,85000
+7,Eve Black,eveblack@company,not_a_number,73000
+8,Frank Lee,frank.lee@example.com,4321098765,78000
+9,Grace Adams,grace.adams@@example.com,3210987654,71000
+10,Henry Ford,henryford.com,2109876543,77000
