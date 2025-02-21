@@ -1,4 +1,4 @@
-package com.practiceproblem.validateJSON;
+package com.practiceproblem.validateJson;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import java.io.File;
